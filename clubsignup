@@ -1,0 +1,18 @@
+<body> <h1>Scavenger club</h1>
+    <p>Come find exciting items on the field:</p>
+        <ul>
+            <li>Pencils</li>
+            <li>Coins</li>
+            <li>Candy Wrappers</li>
+            <li>Scrap Metal</li>
+            <li>And so much more!</li>
+        </ul>
+
+        <p fontsize="18"> Sign up:</p>
+
+        <form method="get", action = "webring.html">
+<input type="text" id="nameField" name="userName" placeholder="Name here"
+
+<input type="email" id="emailField" name="UserEmail" placeholder="Email Here"
+
+        </form>
