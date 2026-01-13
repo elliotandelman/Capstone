@@ -4,7 +4,12 @@
     background-color: blue;
 }
 
-.styletwo{
+span{
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:red;
+}
+
+.styletwo{
+background: green;
+border: orange 3px dashed;
 }
